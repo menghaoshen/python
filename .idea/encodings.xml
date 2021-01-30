@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/12.文件的操作/05.文件拷贝的优化.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/12.文件的操作/06.csv文件的读取.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/12.文件的操作/07.将数据写入到内存.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/12.文件的操作/file.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/12.文件的操作/name.txt" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

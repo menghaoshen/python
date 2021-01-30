@@ -1,0 +1,7 @@
+双击 shift 会弹出全局搜索功能
+关闭：算计shift 打开全局搜索功能 ---> actions ---> registry
+快速格式化代码 ctrl+alt+L
+快速复杂粘贴选中的代码 ctrl + D
+移动一行代码 ctrl+shift + 上下键
+删除某一行 ctrl + y
+多行注释 ctrl + /
